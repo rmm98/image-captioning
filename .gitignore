@@ -1,0 +1,15 @@
+Flickr8k_Dataset/
+Flickr8k_Text/
+
+descriptions.txt
+img_features.pkl
+Final Generator/model-ep003-loss3.638-val_loss3.869.h5
+Final Generator/tokenizer.pkl
+
+.vs/
+.vscode/
+Demo/
+Demo_Dataset/
+Demo_Text/
+Reports/
+Webserver/node_modules/
