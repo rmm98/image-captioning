@@ -30,5 +30,5 @@
 To save Caption Generation model development & training time, you can download all the output artifacts from [My Google Drive Link]()
 
 **TO-DOs:**
-* [] Train the model on Flick30k dataset instead of current Flickr8k dataset
-* [] Add some Flair😎🎇✨ to the Webpage
+* [ ] Train the model on Flick30k dataset instead of current Flickr8k dataset
+* [ ] Add some Flair😎🎇✨ to the Webpage
